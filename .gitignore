@@ -1,0 +1,4 @@
+# Keep the repository rooted at ~/.pi while limiting it to the agent profile.
+/*
+!/.gitignore
+!/agent/

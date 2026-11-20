@@ -1,0 +1,10 @@
+# Share only Pi customizations; keep credentials, sessions, packages, and caches out.
+/*
+!/.gitignore
+!/AGENTS.md
+!/pi-permissions.jsonc
+!/zentui.json
+!/extensions/
+!/skills/
+!/prompts/
+!/themes/
